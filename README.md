@@ -10,5 +10,5 @@ Java抓取資料庫資料，使用Jieba拆字後再統計整理後,存入資料�
 
 用SpringMVC框架，設計Model、Dao、Service、Controller從後端資料庫撈取資料傳遞至前端JSP頁面製作動態網頁
 
-用JavaScript、CSS2動態呈現文字雲和排行榜。
+用JavaScript、Css、Jstl、Html動態呈現文字雲和排行榜。
 
